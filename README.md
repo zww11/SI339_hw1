@@ -1,5 +1,3 @@
-# SI339_hw1
-
 # homework_1
 Code repository for Homework 1
 
